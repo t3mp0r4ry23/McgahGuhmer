@@ -1,5 +1,8 @@
-### Hi there 👋
-
+```
+ ________________________________
+| *Nothing interesting here yet. |
+ --------------------------------
+```
 <!--
 **McgahGuhmer/McgahGuhmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
