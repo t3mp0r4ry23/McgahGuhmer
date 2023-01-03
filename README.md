@@ -1,7 +1,8 @@
 ```
- ________________________________
-| *Nothing interesting here yet. |
- --------------------------------
+ _____________________________
+| *This is an old repository. |
+| Why are you here?           |
+ -----------------------------
 ```
 <!--
 **McgahGuhmer/McgahGuhmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
